@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <!-- Gradient for subtle depth -->
+    <linearGradient id="pipeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4FB8D9" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#2A3F5F" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background is transparent - applied via CSS -->
+  
+  <!-- WATER DROPLETS - Scattered throughout -->
+  <g fill="none" stroke="#4FB8D9" stroke-width="1.5" opacity="0.14">
+    <!-- Large droplets -->
+    <path d="M150 180 C130 220 130 260 150 280 C170 300 200 300 220 280 C240 260 240 220 220 180 L185 120 Z"/>
+    <path d="M1700 250 C1680 290 1680 330 1700 350 C1720 370 1750 370 1770 350 C1790 330 1790 290 1770 250 L1735 190 Z"/>
+    <path d="M850 850 C830 890 830 930 850 950 C870 970 900 970 920 950 C940 930 940 890 920 850 L885 790 Z"/>
+    <path d="M1550 750 C1530 790 1530 830 1550 850 C1570 870 1600 870 1620 850 C1640 830 1640 790 1620 750 L1585 690 Z"/>
+    
+    <!-- Medium droplets -->
+    <path d="M350 450 C335 480 335 510 350 525 C365 540 390 540 405 525 C420 510 420 480 405 450 L378 405 Z"/>
+    <path d="M1200 150 C1185 180 1185 210 1200 225 C1215 240 1240 240 1255 225 C1270 210 1270 180 1255 150 L1228 105 Z"/>
+    <path d="M600 650 C585 680 585 710 600 725 C615 740 640 740 655 725 C670 710 670 680 655 650 L628 605 Z"/>
+    <path d="M1400 550 C1385 580 1385 610 1400 625 C1415 640 1440 640 1455 625 C1470 610 1470 580 1455 550 L1428 505 Z"/>
+    
+    <!-- Small droplets -->
+    <path d="M250 750 C240 770 240 790 250 800 C260 810 280 810 290 800 C300 790 300 770 290 750 L270 720 Z"/>
+    <path d="M950 300 C940 320 940 340 950 350 C960 360 980 360 990 350 C1000 340 1000 320 990 300 L970 270 Z"/>
+    <path d="M1750 950 C1740 970 1740 990 1750 1000 C1760 1010 1780 1010 1790 1000 C1800 990 1800 970 1790 950 L1770 920 Z"/>
+    <path d="M100 550 C90 570 90 590 100 600 C110 610 130 610 140 600 C150 590 150 570 140 550 L120 520 Z"/>
+    <path d="M1100 850 C1090 870 1090 890 1100 900 C1110 910 1130 910 1140 900 C1150 890 1150 870 1140 850 L1120 820 Z"/>
+  </g>
+
+  <!-- PIPE SEGMENTS - L-shapes, T-joints, straight sections -->
+  <g fill="none" stroke="#4FB8D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.12">
+    <!-- L-shaped pipes -->
+    <path d="M80 100 L80 180 L160 180"/>
+    <path d="M1800 80 L1800 150 L1720 150"/>
+    <path d="M50 700 L50 780 L130 780"/>
+    <path d="M1850 650 L1850 720 L1770 720"/>
+    
+    <!-- T-joint pipes -->
+    <path d="M400 200 L400 280 M350 240 L450 240"/>
+    <path d="M1500 180 L1500 260 M1450 220 L1550 220"/>
+    <path d="M300 900 L300 980 M250 940 L350 940"/>
+    <path d="M1600 880 L1600 960 M1550 920 L1650 920"/>
+    
+    <!-- Straight horizontal pipes -->
+    <path d="M500 120 L650 120"/>
+    <path d="M1100 100 L1250 100"/>
+    <path d="M700 950 L850 950"/>
+    <path d="M1300 980 L1450 980"/>
+    
+    <!-- Straight vertical pipes -->
+    <path d="M200 350 L200 500"/>
+    <path d="M1750 400 L1750 550"/>
+    <path d="M180 600 L180 750"/>
+  </g>
+
+  <!-- WRENCH OUTLINES - Subtle tool shapes -->
+  <g fill="none" stroke="#2A3F5F" stroke-width="2" opacity="0.09">
+    <!-- Wrench 1 - top right area -->
+    <path d="M1650 350 L1680 380 L1720 340 L1700 320 L1660 360 L1630 330 L1610 350 L1650 390"/>
+    <circle cx="1640" cy="340" r="15"/>
+    
+    <!-- Wrench 2 - bottom left area -->
+    <path d="M280 620 L310 650 L350 610 L330 590 L290 630 L260 600 L240 620 L280 660"/>
+    <circle cx="270" cy="610" r="15"/>
+    
+    <!-- Wrench 3 - center area (larger, more visible) -->
+    <path d="M960 480 L1000 520 L1050 470 L1025 445 L975 495 L935 455 L910 480 L960 530"/>
+    <circle cx="948" cy="468" r="20"/>
+  </g>
+
+  <!-- WAVE LINES - Water flow representation -->
+  <g stroke="#4FB8D9" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.09">
+    <!-- Wave 1 - Top -->
+    <path d="M0 200 Q120 170 240 200 T480 200 T720 200 T960 200 T1200 200 T1440 200 T1680 200 T1920 200"/>
+    
+    <!-- Wave 2 - Upper middle -->
+    <path d="M0 400 Q150 360 300 400 T600 400 T900 400 T1200 400 T1500 400 T1800 400 T1920 400"/>
+    
+    <!-- Wave 3 - Middle -->
+    <path d="M0 540 Q100 580 200 540 T400 540 T600 540 T800 540 T1000 540 T1200 540 T1400 540 T1600 540 T1800 540 T1920 540"/>
+    
+    <!-- Wave 4 - Lower middle -->
+    <path d="M0 700 Q180 660 360 700 T720 700 T1080 700 T1440 700 T1800 700 T1920 700"/>
+    
+    <!-- Wave 5 - Bottom -->
+    <path d="M0 880 Q140 920 280 880 T560 880 T840 880 T1120 880 T1400 880 T1680 880 T1920 880"/>
+  </g>
+
+  <!-- CONNECTION DOTS - Pipe joints -->
+  <g fill="#4FB8D9" opacity="0.17">
+    <!-- Large joints -->
+    <circle cx="80" cy="180" r="6"/>
+    <circle cx="400" cy="240" r="6"/>
+    <circle cx="1500" cy="220" r="6"/>
+    <circle cx="1800" cy="150" r="6"/>
+    <circle cx="300" cy="940" r="6"/>
+    <circle cx="1600" cy="920" r="6"/>
+    
+    <!-- Medium joints -->
+    <circle cx="200" cy="350" r="4"/>
+    <circle cx="200" cy="500" r="4"/>
+    <circle cx="500" cy="120" r="4"/>
+    <circle cx="650" cy="120" r="4"/>
+    <circle cx="1100" cy="100" r="4"/>
+    <circle cx="1250" cy="100" r="4"/>
+    <circle cx="1750" cy="400" r="4"/>
+    <circle cx="1750" cy="550" r="4"/>
+    
+    <!-- Small accent dots -->
+    <circle cx="960" cy="50" r="3"/>
+    <circle cx="50" cy="540" r="3"/>
+    <circle cx="1870" cy="540" r="3"/>
+    <circle cx="960" cy="1030" r="3"/>
+  </g>
+
+  <!-- VALVE WHEELS - Circular valve representations -->
+  <g fill="none" stroke="#4FB8D9" stroke-width="1.5" opacity="0.12">
+    <!-- Valve 1 -->
+    <circle cx="550" cy="350" r="25"/>
+    <circle cx="550" cy="350" r="15"/>
+    <line x1="550" y1="325" x2="550" y2="375"/>
+    <line x1="525" y1="350" x2="575" y2="350"/>
+    
+    <!-- Valve 2 -->
+    <circle cx="1350" cy="400" r="25"/>
+    <circle cx="1350" cy="400" r="15"/>
+    <line x1="1350" y1="375" x2="1350" y2="425"/>
+    <line x1="1325" y1="400" x2="1375" y2="400"/>
+    
+    <!-- Valve 3 -->
+    <circle cx="750" cy="750" r="20"/>
+    <circle cx="750" cy="750" r="12"/>
+    <line x1="750" y1="730" x2="750" y2="770"/>
+    <line x1="730" y1="750" x2="770" y2="750"/>
+    
+    <!-- Valve 4 -->
+    <circle cx="1150" cy="650" r="20"/>
+    <circle cx="1150" cy="650" r="12"/>
+    <line x1="1150" y1="630" x2="1150" y2="670"/>
+    <line x1="1130" y1="650" x2="1170" y2="650"/>
+  </g>
+
+  <!-- FAUCET OUTLINES - Simplified tap shapes -->
+  <g fill="none" stroke="#2A3F5F" stroke-width="2" opacity="0.07">
+    <!-- Faucet 1 -->
+    <path d="M1000 180 L1000 220 Q1000 240 1020 240 L1060 240 Q1080 240 1080 260 L1080 280"/>
+    <ellipse cx="1000" cy="170" rx="15" ry="10"/>
+    
+    <!-- Faucet 2 -->
+    <path d="M450 800 L450 840 Q450 860 470 860 L510 860 Q530 860 530 880 L530 900"/>
+    <ellipse cx="450" cy="790" rx="15" ry="10"/>
+  </g>
+
+  <!-- DECORATIVE BUBBLES - Small scattered circles -->
+  <g fill="#4FB8D9" opacity="0.07">
+    <circle cx="320" cy="150" r="8"/>
+    <circle cx="680" cy="280" r="6"/>
+    <circle cx="1080" cy="320" r="7"/>
+    <circle cx="1420" cy="150" r="5"/>
+    <circle cx="180" cy="480" r="6"/>
+    <circle cx="520" cy="580" r="8"/>
+    <circle cx="880" cy="520" r="5"/>
+    <circle cx="1280" cy="580" r="7"/>
+    <circle cx="1620" cy="480" r="6"/>
+    <circle cx="380" cy="720" r="5"/>
+    <circle cx="1020" cy="780" r="6"/>
+    <circle cx="1480" cy="720" r="8"/>
+    <circle cx="620" cy="880" r="5"/>
+    <circle cx="1180" cy="920" r="6"/>
+    <circle cx="1720" cy="850" r="7"/>
+  </g>
+
+</svg>

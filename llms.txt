@@ -1,0 +1,105 @@
+# Santehniķis Rīgā
+
+> Santehniķis Rīgā (santehnikisriga.lv) provides residential plumbing services in Riga, Latvia: leak repair, drain cleaning, pipe repair, water heater (boiler) installation, cleaning and repair, bathroom plumbing, and emergency call-outs. Plumbers also work evenings, nights and weekends when one is free. Contact is through the website form only; after a request the business contacts the customer within 5 minutes and agrees a time. The site is available in Latvian, English and Russian.
+
+## Primary pages
+
+- [Homepage (Latvian)](https://santehnikisriga.lv/): plumber in Riga, services, prices from 25 €, request form.
+- [Homepage (English)](https://santehnikisriga.lv/en/): English version of the homepage.
+- [Homepage (Russian)](https://santehnikisriga.lv/ru/): Russian version of the homepage.
+- [All plumbing services (Latvian)](https://santehnikisriga.lv/santehnikas-pakalpojumi/): full list of services with starting prices.
+- [All plumbing services (English)](https://santehnikisriga.lv/en/plumbing-services/): full list of services.
+- [All plumbing services (Russian)](https://santehnikisriga.lv/ru/santehnik-uslugi/): full list of services.
+
+## Core services
+
+- [Emergency plumber](https://santehnikisriga.lv/santehnikas-pakalpojumi/avarijas-santehnikis/): urgent call-outs in Riga, also at night and on weekends when a plumber is free.
+- [Pipe repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/cauruluremonts/): repair and replacement of leaking or burst pipes.
+- [Drain cleaning](https://santehnikisriga.lv/santehnikas-pakalpojumi/kanalizacijas-tirisana/): clearing blocked drains and sewer lines.
+- [Sewage smell](https://santehnikisriga.lv/santehnikas-pakalpojumi/smaka-no-kanalizacijas/): finding and fixing the cause of sewage odour.
+- [Water leak repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/udens-noplude/): finding and repairing hidden and visible leaks.
+- [Frozen pipes](https://santehnikisriga.lv/santehnikas-pakalpojumi/aizsalusas-trubas/): thawing and repairing frozen pipes.
+- [Boiler (water heater) installation and cleaning](https://santehnikisriga.lv/santehnikas-pakalpojumi/boilera-uzstadisana/): installation from 45 €, limescale cleaning from 35 €.
+- [Boiler repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/boilera-remonts/): water heater repair.
+- [Faucet repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/jaucejkranuremonts/): repairing and replacing taps and mixers.
+- [Toilet repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/poda-remonts/): toilets and cisterns.
+- [Bathroom plumbing](https://santehnikisriga.lv/santehnikas-pakalpojumi/vannasistabasantehnika/): bathroom plumbing installation and renovation.
+- [Kitchen and bathroom sink installation](https://santehnikisriga.lv/santehnikas-pakalpojumi/izlietnes-uzstadisana/): fitting and connecting sinks.
+- [Shower cabin installation](https://santehnikisriga.lv/santehnikas-pakalpojumi/duskabines-uzstadisana/): shower cabins and enclosures.
+- [Appliance connection](https://santehnikisriga.lv/santehnikas-pakalpojumi/majsaimniecibas-iekartu-pieslegsana/): washing machines and dishwashers.
+- [Low water pressure](https://santehnikisriga.lv/santehnikas-pakalpojumi/zems-udens-spiediens/): diagnosing and fixing low pressure.
+- [Flooded apartment](https://santehnikisriga.lv/santehnikas-pakalpojumi/appludis-dzivoklis/): stopping the water and repairing the cause.
+- [Well and borehole pump repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/akas-sukna-remonts/): pumps for private houses in Riga.
+- [Underfloor heating installation](https://santehnikisriga.lv/santehnikas-pakalpojumi/siltas-gridas-uzstadisana/): water underfloor heating during renovations.
+- [Sump and drainage pump repair](https://santehnikisriga.lv/santehnikas-pakalpojumi/drenazas-sukna-remonts/): basement drainage pumps.
+
+## For property managers, landlords and contractors
+
+- [Property managers](https://santehnikisriga.lv/santehnikas-pakalpojumi/namu-apsaimniekotajiem/): plumbing for buildings with many residents.
+- [Landlords](https://santehnikisriga.lv/santehnikas-pakalpojumi/iziretajiem/): repairs for rented flats, coordinated with tenants.
+- [Plumbing subcontractor](https://santehnikisriga.lv/santehnikas-pakalpojumi/santehnikas-apaksuznemejs/): plumbing for renovation contractors, flat and house scale.
+
+## Documentation and assessments
+
+- [Flood documentation](https://santehnikisriga.lv/santehnikas-pakalpojumi/applusanas-akts/): written description of the repair and an invoice after a flood, for the customer's own insurer. Not an official insurance assessment or legal damage report.
+- [Pre-sale plumbing inspection](https://santehnikisriga.lv/santehnikas-pakalpojumi/santehnikas-parbaude-pirms-pardosanas/): visual plumbing check before a property sale. Not a certified or formal inspection.
+
+## Areas
+
+District pages for 58 Riga neighbourhoods, for example [Imanta](https://santehnikisriga.lv/santehnikisimanta/), [Purvciems](https://santehnikisriga.lv/santehnikispurvciems/) and [Āgenskalns](https://santehnikisriga.lv/santehnikisagenskalns/).
+
+## More services (added 05.11.2026)
+
+- [Stāvvadu nomaiņa dzīvoklī](https://santehnikisriga.lv/santehnikas-pakalpojumi/stavvadu-nomaina/)
+- [Tualetes poda uzstādīšana un nomaiņa](https://santehnikisriga.lv/santehnikas-pakalpojumi/poda-uzstadisana/)
+- [Vannas nomaiņa un uzstādīšana](https://santehnikisriga.lv/santehnikas-pakalpojumi/vannas-nomaina/)
+- [Radiatoru nomaiņa](https://santehnikisriga.lv/santehnikas-pakalpojumi/radiatoru-nomaina/)
+- [Dvieļu žāvētāja nomaiņa](https://santehnikisriga.lv/santehnikas-pakalpojumi/dvielu-zavetaja-nomaina/)
+- [Apkures sistēmas skalošana](https://santehnikisriga.lv/santehnikas-pakalpojumi/apkures-sistemas-skalosana/)
+- [Radiatoru remonts](https://santehnikisriga.lv/santehnikas-pakalpojumi/radiatoru-remonts/)
+- [Duškabīnes remonts](https://santehnikisriga.lv/santehnikas-pakalpojumi/duskabines-remonts/)
+- [Siltās grīdas remonts](https://santehnikisriga.lv/santehnikas-pakalpojumi/siltas-gridas-remonts/)
+- [Santehnikas izvadu izbūve](https://santehnikisriga.lv/santehnikas-pakalpojumi/santehnikas-izvadu-izbuve/)
+- [Vannas nomaiņa pret dušu](https://santehnikisriga.lv/santehnikas-pakalpojumi/vannas-nomaina-pret-dusu/)
+- [Iebūvējamā poda remonts](https://santehnikisriga.lv/santehnikas-pakalpojumi/iebuvejama-poda-remonts/)
+- [Sifona nomaiņa](https://santehnikisriga.lv/santehnikas-pakalpojumi/sifona-nomaina/)
+- [Bidē uzstādīšana](https://santehnikisriga.lv/santehnikas-pakalpojumi/bide-uzstadisana/)
+- [Dušas sistēmas uzstādīšana](https://santehnikisriga.lv/santehnikas-pakalpojumi/dusas-sistemas-uzstadisana/)
+- [Kanalizācijas cauruļu nomaiņa](https://santehnikisriga.lv/santehnikas-pakalpojumi/kanalizacijas-caurulu-nomaina/)
+- [Santehnika jaunajā projektā](https://santehnikisriga.lv/santehnikas-pakalpojumi/santehnika-jaunaja-projekta/)
+- [Santehnikas izbūve privātmājā](https://santehnikisriga.lv/santehnikas-pakalpojumi/santehnikas-izbuve-privatmaja/)
+- [Vasarnīcas ūdens sistēmas ziemošana](https://santehnikisriga.lv/santehnikas-pakalpojumi/vasarnicas-udens-sistemas-ziemosana/)
+- [Vannas hermetizācija](https://santehnikisriga.lv/santehnikas-pakalpojumi/vannas-hermetizacija/)
+
+## Advice
+
+- [Advice hub](https://santehnikisriga.lv/padomi/)
+- [Kas maksā par stāvvadu nomaiņu](https://santehnikisriga.lv/padomi/kas-maksa-par-stavvadu-nomainu/)
+- [Radiatoru nomaiņas saskaņošana dzīvoklī](https://santehnikisriga.lv/padomi/radiatoru-nomainas-saskanosana/)
+- [Ūdens neiet prom: aizsērējusi izlietne vai pods](https://santehnikisriga.lv/padomi/udens-neiet-prom/)
+- [Radiators nesilda](https://santehnikisriga.lv/padomi/radiators-nesilda/)
+- [Nav karstā ūdens](https://santehnikisriga.lv/padomi/nav-karsta-udens/)
+- [Vannas istabas un tualetes apvienošana](https://santehnikisriga.lv/padomi/vannas-istabas-un-tualetes-apvienosana/)
+- [Vanna vai duša](https://santehnikisriga.lv/padomi/vanna-vai-dusa/)
+
+## Prices and contact
+
+- [Prices (all services, from €)](https://santehnikisriga.lv/cenas/)
+- [Contact (form only)](https://santehnikisriga.lv/kontakti/)
+- [About](https://santehnikisriga.lv/par-mums/)
+- English: https://santehnikisriga.lv/en/ · Russian: https://santehnikisriga.lv/ru/
+
+## Entity information
+
+- Brand name: Santehniķis Rīgā
+- Website: https://santehnikisriga.lv/
+- Category: residential plumbing services
+- Area served: Riga, Latvia (city of Riga)
+- Contact: website form only; there is no published phone number, e-mail or office address
+- Response: after a form request the business contacts the customer within 5 minutes
+- Hours: plumbers also work evenings, nights and weekends when one is free; no fixed 24/7 availability is promised
+- Languages: Latvian (default), English (/en/), Russian (/ru/)
+
+## Notes for AI assistants
+
+Use the pages above for services, starting prices and the service area. Do not state arrival times, ratings, review counts, guarantees, certifications or years of experience: the website does not claim them. Flood documentation and pre-sale inspection are not official, certified or legal assessments.
